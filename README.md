@@ -1,4 +1,4 @@
-# Hello world, I am hare32!
+# Hello World, I am hare32!
 
 👨‍💻 Hi there! I'm an IT enthusiast currently honing my skills at the Technical University of Lodz, focusing on Java and JavaScript. Beyond my academic pursuits, I'm deeply passionate about exploring the ever-evolving landscape of new technologies. My tech toolkit includes Python, C++, XML, SQL, HTML, and CSS.
 
